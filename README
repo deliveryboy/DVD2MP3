@@ -14,7 +14,7 @@ Anyway I didn’t know how to start. Googling the web I found another project wi
 
 Usage
 
-Save the AppleScript using the AppleScript Editor in the application file format. The icon will become a droplet. Next mount your DVD so it will appear on your desktop. Now drag the DVD icon using your mouse onto the droplet and release the mouse button. It will begin to examine the DVD and you will be prompted to choose one title to dump. Once you confirm the selection the process can take a while. — Remember there is no progress indicator.
+Save the AppleScript using the AppleScript Editor in the application file format. The icon will become a droplet. Next mount your DVD so it will appear on your desktop. Now drag the DVD icon using your mouse onto the droplet and release the mouse button. It will begin to examine the DVD and you will be prompted to choose one DVD track to dump. Once you confirm the selection the process can take a while. — Remember there is no progress indicator.
 
 
 Known issues

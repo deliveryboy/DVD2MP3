@@ -19,12 +19,12 @@ Save the AppleScript using the AppleScript Editor in the application file format
 
 Known issues
 
-Some DVDs with copy protection won’t work using this droplet. A workaround is to use this droplet in combination with the “Fairmount” and “VideoLAN Client media player” software. Where VLC provides the libdvdcss library Fairmount can use it to mount the copy protected DVD removing the protection temporarily.
+Some DVDs with copy protection won’t work using this droplet. A workaround is to use this droplet in combination with the “Fairmount” and the “libdvdcss” library from the “VideoLAN Client” media player software. That way a copy protected DVD can be mounted removing the copy protection temporarily.
 
 
 Dependencies
 
-In order to use this droplet you need to install some additional software: First of all an AppleScript scripting addition from “Late Night Software” which extends AppleScripts capabilities for parsing XML data must be installed. Using MacPorts package manager there are two further packages which need to be installed. The first one is lsdvd which helps retrieving any information from a given DVD. The second package is MPlayer which brings two further tools: mencoder for encoding the DVD stream and mplayer for dumping the audio stream. Anyway both MacPorts packages depend on another packages wich will be installed, too.
+In order to use this droplet some additional software is required: First of all an AppleScript scripting addition from “Late Night Software” which extends AppleScriptʼs capabilities for parsing XML data must be installed. Using the “MacPorts” package manager there are two further required packages. The first one is “lsdvd” which helps retrieving any information from a given DVD. The second package is “MPlayer” which brings two further tools: “mencoder” for encoding the DVD stream and “mplayer” for dumping the audio stream. Anyway both packages depend on another packages which will be installed, too.
 
 
 Related internet resources
@@ -33,7 +33,7 @@ Related internet resources
 • http://www.latenightsw.com/freeware/XMLTools2/index.html
 • http://www.macports.org/
 • http://www.metakine.com/products/fairmount/
-• http://download.videolan.org/pub/videolan/vlc/1.1.9/
+• http://www.videolan.org/developers/libdvdcss.html
 
 
 -- Markus Kwaśnicki
